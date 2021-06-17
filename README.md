@@ -1,12 +1,26 @@
-<h3>Hello!  </h3>
+<h2>Hello!</h2>
+<br/>
 
-- 🌈 &nbsp; She/her.
-- 🔮 &nbsp; Creative and restless mind, I'm always starting a new hobby, which makes me a generalist person.
-- 👩🏻‍🎓 &nbsp; Studied Engineering of Software Projects @ UNISUL and Information Systems @ Federal University of Santa Catarina. 
-- 👩🏻‍💻 &nbsp; Today I'm working as a frontend developer @ Mercado Libre.
+<h3>About me</h3>
 
+<br/>
+  <div style="display:flex; flex-direction: row">
+    <img src="https://i.ibb.co/qgqDPvd/Screenshot-2021-06-17-13-00-05-593.png" alt="90s doll" height="200" >
+    <ul>
+      <li> 🌈 &nbsp; She/her </li>
+      <li> 🕹 &nbsp; Millenial </li>
+      <li> 🤔 &nbsp; I like to talk about people real problems, not a fan of any specific tech </li>
+      <li> 🔮 &nbsp; Creative and restless mind, I'm always starting a new hobby, which makes me a generalist person </li>
+      <li> 👩🏻‍🎓 &nbsp; Studied Engineering of Software Projects @ UNISUL and Information Systems @ Federal University of Santa Catarina </li>
+      <li> 👩🏻‍💻 &nbsp; Today I'm working as a frontend developer @ Mercado Libre </li>
+    </ul>
+  </div>
+
+<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+<br/>
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
